@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.9-blue) 
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
 
 # 🚴 London Bike Sharing Analysis
 
