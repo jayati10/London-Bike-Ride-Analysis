@@ -24,6 +24,5 @@ It demonstrates end-to-end data analytics using **Python** for data wrangling & 
 
 <img width="940" height="571" alt="image" src="https://github.com/user-attachments/assets/0d49c2a4-e5a5-4233-b045-336093228de8" />
 
-
-👉 [View full Tableau Dashboard here]([your-tableau-public-link](https://public.tableau.com/app/profile/jayati.gupta4196/viz/LondonBikeRidesTableaudashboard_17555792558970/Dashboard1?publish=yes))
+👉 [View full Tableau Dashboard here](https://public.tableau.com/app/profile/jayati.gupta4196/viz/LondonBikeRidesTableaudashboard_17555792558970/Dashboard1?publish=yes)
 
